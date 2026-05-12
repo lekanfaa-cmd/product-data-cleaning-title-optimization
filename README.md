@@ -181,10 +181,6 @@ product-data-cleaning-title-optimization/
 ├── report/
 │     └── data_cleaning_title_optimization_report.pdf
 │
-├── images/
-│     ├── dataset_overview.png
-│     ├── cleaning_process.png
-│     └── short_title_examples.png
 │
 └── original_dataset/
       └── raw_product_dataset.xlsx
